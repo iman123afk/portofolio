@@ -273,7 +273,7 @@ p {
 	padding: 100px 0;
 }
 #services .service-top {
-	max-width: 500px;
+	max-width: 700px;
 	margin: 0 auto;
 }
 #services .service-bottom {
@@ -291,7 +291,7 @@ p {
 	flex-direction: column;
 	padding: 30px;
 	border-radius: 10px;
-	background-image: url(./img/img-1.png);
+	background-image: url(./img/img1.png);
 	background-size: cover;
 	margin: 10px 5%;
 	position: relative;
@@ -309,6 +309,7 @@ p {
 	opacity: 0.9;
 	z-index: -1;
 }
+
 #services .service-bottom .icon {
 	height: 80px;
 	width: 80px;
